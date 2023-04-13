@@ -109,3 +109,4 @@ def test_main(monkeypatch, capsys):
     assert friend_list[-1]["age"] == expected_age
     assert friend_list[-1]["future"] == future
     assert friend_list[-1]["past"] == past
+
